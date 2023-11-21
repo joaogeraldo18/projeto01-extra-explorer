@@ -52,5 +52,6 @@ p{
 }
 
 .onda{
-  margin: 41px;
+  margin: 41px auto;
+  display: block;
 }
